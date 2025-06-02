@@ -6,6 +6,6 @@ inference==0.9.1
 Pillow==10.3.0
 google-generativeai==0.8.5
 ultralytics==8.1.25
-tensorflow==2.0.0
+tensorflow==2.17.0
 torch
 torchvision
